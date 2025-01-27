@@ -63,7 +63,7 @@ A cutting-edge multilingual **Voice AI Assistant** that allows you to communicat
 
 | Home Interface | Voice Output Example |
 |----------------|---------------------|
-| ![Home Interface]("D:\Home Screen.png") | ![Voice Input]("D:\Output.png") |
+| ![Home Interface](assets/Home%20Screen.png) | ![Voice Input](assets/Output.png) |
 
 ---
 
